@@ -1,5 +1,11 @@
 # Swarm intelligence for new materials 🧬🔬
 
+**Course:** Molecular Modeling of Materials
+
+**Author:** Balice Matteo
+
+---
+
 ## Description
 
 This project implements and explores a novel hybrid swarm intelligence algorithm to optimize neural network parameters for predicting material properties, specifically focusing on crystal structure energies. The approach aims to enhance the efficiency and accuracy of traditional neural network models in the field of computational materials science, aiding in the discovery and design of new materials.
@@ -11,6 +17,7 @@ The core methodology is inspired by the paper "Swarm intelligence for new materi
 ## 🎯 Motivation
 
 Traditional neural network training methods for materials science applications often suffer from:
+
 * Low efficiency and accuracy.
 * A tendency to get stuck in local optima.
 * Difficulty in converging effectively, leading to models with low predictive power.
