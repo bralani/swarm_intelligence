@@ -19,6 +19,16 @@ This project addresses these challenges by employing a sophisticated optimizatio
 
 ---
 
+## 📓 Notebooks
+
+Explore the material-specific experiments in the following Jupyter notebooks:
+
+* 📘 [CaTiO₃.ipynb](CaTiO3.ipynb)
+* 📗 [TiO₂.ipynb](TiO2.ipynb)
+* 📕 [VO₂.ipynb](VO2.ipynb)
+
+---
+
 ## 📊 Data
 
 The original paper uses datasets for materials like Si, $TiO_2$, $VO_2$, and $CaTiO_3$, with energies calculated by their group. The dataset used in this project should be compatible with the input expected by the neural network (e.g., structural descriptors like Chebyshev polynomials). A link to the dataset used in the paper is available: https://data.mendeley.com/datasets/gr3c7m44jn/2.
